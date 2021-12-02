@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Files clsid="{215B2E53-57CE-475c-80FE-9EEC14635851}"><File clsid="{50BE44C8-567A-4ed1-B1D0-9234FE1F38AF}" name="temp" status="temp" image="2" changed="2021-12-02 10:17:25" uid="{6D1C6B64-439E-4137-A55A-0ACAE0BA3902}"><Properties action="U" fromPath="\\%UserDNSdomain%\NETLOGON\CreateScheduleTask.ps1" targetPath="c:\windows\temp" readOnly="0" archive="1" hidden="0" suppress="0"/></File>
+</Files>
